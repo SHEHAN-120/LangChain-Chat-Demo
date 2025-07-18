@@ -1,0 +1,14 @@
+# Ignore virtual environment folder
+langchain/
+
+
+__pycache__/
+*.pyc
+
+
+.vscode/
+
+.DS_Store
+
+
+requirements.txt
